@@ -146,5 +146,11 @@
       <description>craigslist link</description>
       <pubDate>Fri, 24 Mar 2023 11:23:13 +0100</pubDate>
     </item>
+    <item>
+      <title>Caleb Test</title>
+      <link>https://maaetc.org</link>
+      <description>this is a test from MAAETC.org</description>
+      <pubDate>Fri, 24 Mar 2023 14:26:46 +0100</pubDate>
+    </item>
   </channel>
 </rss>
