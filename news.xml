@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>W3Schools Home Page</title>
+    <link>https://www.w3schools.com</link>
+    <description>Free web building tutorials</description>
+    <item>
+      <title>RSS Tutorial</title>
+      <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+      <description>New RSS tutorial on W3Schools</description>
+    </item>
+    <item>
+      <title>XML Tutorial</title>
+      <link>https://www.w3schools.com/xml</link>
+      <description>New XML tutorial on W3Schools</description>
+    </item>
+    <item>
+      <title>$title</title>
+      <link>$link</link>
+      <description>$description.</description>
+      <pubDate>Fri, 24 Mar 2023 02:03:20 +0100</pubDate>
+    </item>
+    <item>
+      <title>Test Title</title>
+      <link>www.google.com</link>
+      <description>this is a short description</description>
+      <pubDate>Fri, 24 Mar 2023 02:03:39 +0100</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link/>
+      <description/>
+      <pubDate>Fri, 24 Mar 2023 02:03:42 +0100</pubDate>
+    </item>
+    <item>
+      <title/>
+      <link/>
+      <description/>
+      <pubDate>Fri, 24 Mar 2023 02:07:49 +0100</pubDate>
+    </item>
+    <item>
+      <title>New Item</title>
+      <link>https://www.google.com</link>
+      <description>This is a link to GOOGLE</description>
+      <pubDate>Fri, 24 Mar 2023 02:09:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>Testing http protocols</title>
+      <link>https://maaetc.org</link>
+      <description>this is a link to MAAETC website</description>
+      <pubDate>Fri, 24 Mar 2023 02:24:25 +0100</pubDate>
+    </item>
+    <item>
+      <title>Testing http protocols</title>
+      <link>https://maaetc.org</link>
+      <description>this is a link to MAAETC website</description>
+      <pubDate>Fri, 24 Mar 2023 02:26:23 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:27:24 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link/>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:29:39 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:30:07 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:56:54 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:02 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:03 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:04 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:04 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:05 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:46 +0100</pubDate>
+    </item>
+    <item>
+      <title>another test</title>
+      <link>https://youtube.com</link>
+      <description>this should NOT add the extra protocols</description>
+      <pubDate>Fri, 24 Mar 2023 02:57:53 +0100</pubDate>
+    </item>
+    <item>
+      <title>FORMATTED</title>
+      <link>https://www.craigslist.com</link>
+      <description>craigslist link</description>
+      <pubDate>Fri, 24 Mar 2023 02:58:24 +0100</pubDate>
+    </item>
+    <item>
+      <title>FORMATTED</title>
+      <link>https://www.craigslist.com</link>
+      <description>craigslist link</description>
+      <pubDate>Fri, 24 Mar 2023 11:17:51 +0100</pubDate>
+    </item>
+    <item>
+      <title>FORMATTED</title>
+      <link>https://www.craigslist.com</link>
+      <description>craigslist link</description>
+      <pubDate>Fri, 24 Mar 2023 11:17:58 +0100</pubDate>
+    </item>
+    <item>
+      <title>FORMATTED</title>
+      <link>https://www.craigslist.com</link>
+      <description>craigslist link</description>
+      <pubDate>Fri, 24 Mar 2023 11:23:13 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
